@@ -17,6 +17,7 @@ A personal reference guide for cybersecurity and information security terminolog
 - [Network Architecture](#network-architecture)
 - [Network Operations](#network-operations)
 - [Secure Against Network Intrusions](#secure-against-network-intrusions)
+- [Security hardening](#security-hardening)
 
 ---
 
@@ -413,6 +414,10 @@ A personal reference guide for cybersecurity and information security terminolog
 - **Synchronize (SYN) flood attack:** A type of DoS attack that simulates a TCP/IP connection and floods a server with SYN packets.
 
 ---
+
+## Security hardening
+
+- **
 
 ## 📝 Notes
 
