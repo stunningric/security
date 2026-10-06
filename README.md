@@ -18,6 +18,7 @@ A personal reference guide for cybersecurity and information security terminolog
 - [Network Operations](#network-operations)
 - [Secure Against Network Intrusions](#secure-against-network-intrusions)
 - [Security hardening](#security-hardening)
+- [Introduction of operating systems](#introduction-of-operating-systems)
 
 ---
 
@@ -436,6 +437,34 @@ A personal reference guide for cybersecurity and information security terminolog
 - **Security information and event management (SIEM):** An application that collects and analyzes log data to monitor critical activities for an organization
 
 - **World-writable file:** A file that can be altered by anyone in the world
+
+---
+
+## Introduction of operating systems
+
+- **Application:** A program that performs a specific task
+
+- **Basic Input/Output System (BIOS):** A microchip that contains loading instructions for the computer and is prevalent in older systems 
+
+- **Bootloader:** A software program that boots the operating system
+
+- **Command-line interface (CLI):** A text-based user interface that uses commands to interact with the computer
+
+- **Graphical user interface (GUI):** A user interface that uses icons on the screen to manage different tasks on the computer
+
+- **Hardware:** The physical components of a computer
+
+- **Legacy operating system:** An operating system that is outdated but still being used
+
+- **Operating system (OS):** The interface between computer hardware and the user
+
+- **Random Access Memory (RAM):** A hardware component used for short-term memory
+
+- **Unified Extensible Firmware Interface (UEFI):** A microchip that contains loading instructions for the computer and replaces BIOS on more modern systems
+
+- **User interface:** A program that allows the user to control the functions of the operating system
+
+- **Virtual machine (VM):** A virtual version of a physical computer
 
 ## 📝 Notes
 
