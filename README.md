@@ -24,6 +24,7 @@ A personal reference guide for cybersecurity and information security terminolog
 - [Databases and SQL](#databases-and-sql)
 - [Introduction to asset security](#Introduction-to-asset-security)
 - [Protect organizational assets](#Protect-organizational-assets)
+- [Vulnerabilities in systems](#Vulnerabilities-in-systems)
 
 ---
 
@@ -736,6 +737,10 @@ A personal reference guide for cybersecurity and information security terminolog
 - **Symmetric encryption:** The use of a single secret key to exchange information
 
 - **User provisioning:** The process of creating and maintaining a user's digital identity
+
+ ---
+
+## Vulnerabilities in systems
 
 ## 📝 Notes
 
